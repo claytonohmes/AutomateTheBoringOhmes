@@ -1,0 +1,55 @@
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 31, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
+Traceback (most recent call last):
+  File "g:\My Drive\Learning\Udemy\Automate The Boring Stuff\Section 12-35.py", line 32, in <module>
+    raise Exception('This is an Error Message')
+Exception: This is an Error Message
+
